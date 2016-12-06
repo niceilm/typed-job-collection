@@ -1,0 +1,12 @@
+{
+  "name": "meteor-job-collection",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/vsivsi/meteor-job-collection",
+  "version": "1.4.0",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+    "meteor": "registry:env/meteor#1.3.0+20160830163906",
+    "node": "registry:dt/node#6.0.0+20161121110008"
+  }
+}
